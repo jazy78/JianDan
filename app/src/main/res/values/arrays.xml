@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="vido">
+
+        <item>分享</item>
+        <item>复制</item>
+        <item>打开</item>
+    </string-array>
+     <string-array name="picture">
+
+         <item> 分享</item>
+         <item> 保存</item>
+     </string-array>
+
+    <string-array name="joke_dialog">
+    <item>分享</item>
+    <item>复制</item>
+    </string-array>
+</resources>
